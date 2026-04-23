@@ -1,6 +1,6 @@
 # "Tớ là Tuấn và tớ thích mèo =)"
 
-<img src="banner.gif" width="200" align="right">
+![Mô tả ảnh](banner.gif)
 
 ### Tech Stack
 `HTML` `CSS` `JS` `Java` `PHP` `NodeJs` `mcfunction` `Lua`
