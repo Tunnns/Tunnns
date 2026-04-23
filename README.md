@@ -1,4 +1,4 @@
 # "Tớ là Tuấn và tớ thích mèo =)"
-
-Langague
+![](./banner.gif?raw=true)
+Langague:
 `HTML` `CSS` `JS` `Java` `PHP` `NodeJs` `mcfunction` `Lua` `C#`
