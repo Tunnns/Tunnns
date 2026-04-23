@@ -2,4 +2,4 @@
 
 
 > Langague:
-`HTML` `CSS` `JS` `Java` `PHP` `NodeJs` `mcfunction` `Lua` `C#`
+`HTML` `CSS` `JS` `Java` `PHP` `NodeJs` `mcfunction` `Lua` `C#` `TypeScript`
